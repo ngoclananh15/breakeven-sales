@@ -1,5 +1,5 @@
 """
-File: extension.py
+File: breakeven_sales.py
 ------------------
 How many more you have to sell until you break even?
 """
